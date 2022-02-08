@@ -70,6 +70,8 @@ function moviesAverageByCategory(array, genre) {
       }
     }
   })
+
+
   console.log(filtradoCategoria);
 
 
